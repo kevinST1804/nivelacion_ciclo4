@@ -1,3 +1,3 @@
-Proyecto Nivelación MisionTic 
-<img src="firebase.gif" width="300" />"# nivelacion_ciclo4" 
+buenas tardes, despues de hacerle algunas modificaciones al archivo espero que este bien, no puedo subir los videos por que mi pc no me permite correr la app con ninguno de los emuladores 
 
+KEVIN SANCHEZ
