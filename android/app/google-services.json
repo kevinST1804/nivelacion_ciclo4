@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1045377471602",
+    "project_id": "nivelacion-7809e",
+    "storage_bucket": "nivelacion-7809e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045377471602:android:c7478566d6421894389eeb",
+        "android_client_info": {
+          "package_name": "com.example.misiontic_team_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045377471602-l7tig5oaldbunu1888cculgnbofl1tun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylvDSdxHmFzjZqzzoBv4MN-shOWvRbho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045377471602-l7tig5oaldbunu1888cculgnbofl1tun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045377471602:android:9b4679ad998891b9389eeb",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_nivelacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045377471602-l7tig5oaldbunu1888cculgnbofl1tun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylvDSdxHmFzjZqzzoBv4MN-shOWvRbho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045377471602-l7tig5oaldbunu1888cculgnbofl1tun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
